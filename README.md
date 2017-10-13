@@ -7,6 +7,7 @@ Takes in a filename of HYG stars, reads, it, and finds the stars closest to your
 Java 1.6, 1.7, or 1.8 on your $PATH
 
 [Install Clojure](https://clojure.org/guides/getting_started)
+
 [Install Leiningen](https://leiningen.org/)
 
 ## Testing it
