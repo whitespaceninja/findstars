@@ -14,7 +14,7 @@ Java 1.6, 1.7, or 1.8 on your $PATH
 
 `lein test` runs tests
 
-## RUnning it
+## Running it
 
 - Download the hyg data here: http://www.astronexus.com/files/downloads/hygdata_v3.csv.gz
 - Uncompress and note the filename
